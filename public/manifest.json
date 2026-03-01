@@ -1,0 +1,22 @@
+{
+    "name": "NeighborChat",
+    "short_name": "NeighborChat",
+    "description": "Anonymous, ephemeral, location-based chat. Connect with neighbors within your area.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#0f172a",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/vite.svg.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        },
+        {
+            "src": "/vite.svg.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ]
+}
